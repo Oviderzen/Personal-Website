@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+
+
+<head>
+    
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JS6ZV3Y2LK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-JS6ZV3Y2LK');
+  </script>
+  
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Ovidiu Velica - Resume</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="static/img/favicon.png" rel="icon">
+  <link href="static/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i&display=swap" rel="stylesheet">
+
+  <!-- Vendor css Files -->
+  <link href="static/vendor/aos/aos.css" rel="stylesheet">
+  <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="static/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="static/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="static/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="static/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main css File -->
+  <link href="static/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <!-- <button type="button" class="mobile-nav-toggle d-xl-none"><i class="bi bi-list mobile-nav-toggle"></i></button> -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex flex-column justify-content-center">
+
+    <!-- Dark mode button! -->
+    <button id="darkModeToggle" class="dark-mode-toggle">
+      <i class="bi bi-moon"></i>
+    </button>
+
+    <nav id="navbar" class="navbar nav-menu">
+      <ul>
+        <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+        <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
+        <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
+        <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
+
+      </ul>
+    </nav><!-- .nav-menu -->
+
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center">
+    <div class="container" data-aos="zoom-in" data-aos-delay="100">
+      <h1>Ovidiu Velica</h1>
+      <p>I'm <span class="typed" data-typed-items=" an IT Professional, a Developer, a Lifelong Learner, on the path to DevOps"></span></p>
+      <div class="social-links">
+
+        <a href="https://github.com/Oviderzen" target="_blank" class="github"><i class="bx bxl-github"></i></a>
+        <a href="" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+        <a href="" target="_blank" class="devto"><i class="bx bxl-dev-to"></i></a>
+          <a href="" target="_blank" class="leet-code"><i class='bx bx-code-alt'></i></a>
+      </div>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <p></p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4">
+            <img src="static/img/profile-img.webp" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content">
+            <p><br></p>
+            <h3>Hi there, I am Ovidiu.</h3>
+            <p class="fst-italic">
+            </p>
+            <div class="row">
+
+              <p>Hello and Welcome! I'm Ovidiu, a self-taught Python programmer and enthusiastic IT professional. My journey in IT began around 1995 when I had my first encounter with a PC. From spending countless hours at 
+                internet cafes to visiting friends who had computers at home, my fascination with technology grew. In 1996, I got my own PC, and my excitement led me to an interesting experience—I accidentally deleted the 
+                operating system. Determined to fix it, I embarked on a self-taught journey to reinstall the OS, which turned out to be one of my most challenging moments. I felt a mix of excitement and fear because my parents 
+                had made a real effort to get that PC for me.
+              </p>
+              <p>
+                During my teenage years, my friends and I frequently gathered in houses or garages for LAN parties. It was during these gatherings that I found myself taking on the role of the designated system and 
+                network administrator. I was responsible for setting up the network and troubleshooting any issues with my friend's PC's. Initially, we had a local network, but as home internet became popular, we started 
+                hosting larger and longer LAN parties, ensuring that everyone had access to the internet as well.
+              </p>
+              <p>
+                But things got even crazier when we decided to go full-blown rebels. We hatched a plan, climbed a pole outside a friend's place, and hooked up a ridiculously long UTP cable to hijack the local internet provider's switch. 
+                With a little MAC address magic, we all scored internet access! It was a glorious and hilariously audacious feat, proving that when it came to LAN parties, we weren't just gamers—we were adventure seekers, 
+                tech whizzes, and champions of online connectivity!
+              </p>
+              <p>
+                Although I always aspired to pursue a career in IT, I didn't enroll in a Computer Science University. Instead, I obtained a bachelor's degree in Marketing and Economic Sciences. However, my passion for technology 
+                never waned, and I continued to learn and experiment with new technologies.
+              </p>
+              <p>
+                During my time in college, I secured my first job in Tech Support, which I saw as my entry point into the IT field. Unfortunately, I found the job to be extremely boring, and the opportunities seemed limited. 
+                Nevertheless, upon graduating, I had an idea to expand my family's business, online. Combining my knowledge of marketing and IT, I successfully created the company's online store.
+              </p>
+              <p>
+                In 2018, I founded my own company called <a href="https://www.playerone.ro" target="_blank">Player One Gaming</a>, an online retailer specializing in PC peripherals. I utilized my sharpened marketing, and IT skills to develop 
+                the store and establish a strong online presence.
+              </p>
+              <p>
+                At the beginning of 2023, in March, I made the decision to pursue my dream of working in the IT field and become a DevOps engineer. As part of my preparation, by the end of May 2023, I have already completed 
+                two Python courses on Udemy. You can see the projects that I've built so far on my <a href="https://github.com/Oviderzen" target="_blank">GitHub</a> page. My next steps include refreshing my knowledge of Linux, learning Bash, AWS, CI/CD, Ansible, Terraform, Docker, and Kubernetes.
+              </p>
+              <p>
+                Overall, my journey reflects an unwavering passion for IT and a continuous drive to learn and adapt to new technologies. Transitioning into a DevOps role aligns perfectly with my background and interests. 
+                I am excited to embark on this path and explore the possibilities it holds.
+              </p>
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+
+    <!-- ======= Skills Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Skills</h2>
+          <p>“Mastering others is strength.  Mastering yourself is true power.”</p>
+          <p>Lao Tzu</p>
+        </div>
+
+        <div class="row skills-content">
+
+          <div class="col-lg-6">
+
+            <div class="progress">
+              <span class="skill"> Customer Support <i class="val">100%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Python <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill"> HTML & CSS <i class="val">60%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+             <div class="progress">
+              <span class="skill"> SQL <i class="val">40%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-6">
+
+            <div class="progress">
+              <span class="skill">Computer Networks <i class="val">70%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <div class="progress">
+              <span class="skill">AWS <i class="val">10%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Linux <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+             <div class="progress">
+                  <span class="skill"> Road to DevOps <i class="val">60%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Skills Section -->
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Resume</h2>
+          <p>“The right understanding of any matter and a misunderstanding of the same matter do not wholly exclude each other.”</p>
+          <p>Franz Kafka</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6">
+
+            <h3 class="resume-title">Education</h3>
+            <div class="resume-item">
+              <h4>Marketing and Economic Science</h4>
+              <h5>2007 - 2010</h5>
+              <p><em>Spirtu Haret University, Bucharest</em></p>
+              <p>Studied marketing and international economics affairs.</p>
+            </div>
+            <div class="resume-item">
+              <h4>High-School</h4>
+              <h5>2003 - 2007</h5>
+              <p><em>Mihai Eminescu High-School, Barlad</em></p>
+              <p>Philology major. </p>
+            </div>
+          <div class="resume-item">
+               <h3 class="resume-title">Certifications</h3>
+
+            </div>
+             <div class="resume-item">
+
+               <h4> 100 Days of Code: The Complete Python Pro Bootcamp</h4>
+              <h5>Does not expire </h5>
+               <p><em> <a href="https://www.udemy.com/certificate/UC-4736ab1a-5889-488f-812d-057f5a7ca6a9/" target="_blank">Certificate Of Completion, Udemy</a></em></p>
+              <ul>
+                <li> Completed 100 Days of Code Challenge by Angela Yu.</li>
+                <li> Uploaded the most important projects that I built during the course on <a href="https://github.com/Oviderzen" target="_blank">GitHub.</a></li>
+              </ul>
+            </div>
+
+            <div class="resume-item">
+
+              <h4> The Complete Python Bootcamp From Zero to Hero in Python</h4>
+             <h5>Does not expire </h5>
+              <p><em> <a href="https://www.udemy.com/certificate/UC-aabe0692-cfb6-412f-9ac6-2cf05ff8f1c1/" target="_blank">Certificate Of Completion, Udemy </a></em></p>
+             <ul>
+               <li> Completed the course by Jose Portilla.</li>
+               <li> You can see some of the projects I built on <a href="https://github.com/Oviderzen" target="_blank">GitHub.</a></li>
+             </ul>
+           </div>
+           
+           <div class="resume-item">
+
+            <h4> The Ultimate DevOps Bootcamp - 2023</h4>
+           <h5>Does not expire </h5>
+            <p><em><a href="https://www.udemy.com/certificate/UC-7b9fa29b-f1ba-4f64-9b00-f349268178e1/" target="_blank">Certificate Of Completion, Udemy</a> </em></p>
+           <ul>
+             <li> Completed the course by KodeKloud and Mumshad Mannambeth</li>
+             <li> Learned Linux, Networking Basics, GIT, Jenkins, Docker, Kubernetes, Ansible and Terraform.</li>
+           </ul>
+         </div>
+           
+
+            </div>
+          <div class="col-lg-6">
+            <h3 class="resume-title">Professional Experience</h3>
+            <div class="resume-item">
+              <h4>Administrator</h4>
+              <h5>2018 - Present</h5>
+              <p><em> Player One Gaming</em></p>
+              <ul>
+                <li>Designed and build the company's web store.</li>
+                <li>Sourced the market for premium and affordable merchandise and handled the
+                  import of such goods.</li>
+                <li>Successfully handled day-to-day operations of the business, overseeing inventory management, order processing, and customer support.</li>
+                <li>Implemented marketing strategies on various channels, including Ad-Words, SEO, Facebook, and Instagram, resulting in increased brand visibility and customer engagement.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Delivery Driver</h4>
+              <h5>2016 - 2017</h5>
+              <p><em>Prospect Commercials(Amazon)</em></p>
+              <ul>
+                <li> Delivered Amazon parcels in accordance with strict guidelines, ensuring accurate and timely deliveries to customers.</li>
+                <li> Managed and organized delivery routes efficiently, resulting in decreased delivery time and increased customer satisfaction.</li>
+              </ul>
+            </div>
+             <div class="resume-item">
+             <h4>General Assistant</h4>
+              <h5>2015 - 2016</h5>
+              <p><em>Bartlett Mitchell London</em></p>
+              <ul>
+                <li>Operated as a barista, consistently delivering high-quality coffee and excellent customer service.</li>
+                <li>Assumed additional responsibilities in different areas of the canteen as needed.</li>
+                <li>Worked the till system and restocked the coffee bar, ensuring a sufficient supply of ingredients and maintaining a clean and organized workspace.</li>
+              </ul>
+                </div>
+              <div class="resume-item">
+                <h4>On-Line Sales Manager</h4>
+                  <h5>2011 - 2015</h5>
+                  <p><em>Liveli</em></p>
+                  <ul>
+                    <li>Designed and built the company's web store.</li>
+                    <li>Led social media marketing and advertising efforts, implementing strategies to increase brand visibility, drive website traffic, and generate sales leads.</li>
+                    <li>Managed the end-to-end online sales process, including order processing, payment verification, and shipping logistics.</li>
+                    <li>Provided exceptional customer service by promptly responding to inquiries, offering product information, and resolving complaints to ensure customer satisfaction.</li>
+                    <li>Ensured the stock is always equal to the demand by constantly analyzing the sale
+                      stats and the physical stock.</li>
+                  </ul>
+                    </div>
+              <div class="resume-item">
+                <h4>Frontline Operator</h4>
+                  <h5>2009 - 2010</h5>
+                  <p><em>RCS & RDS</em></p>
+                  <ul>
+                    <li>Provided technical and commercial support to customers on issues related to internet connection, cable TV, mobile phones, and landline phones.</li>
+                    <li>Covered all the major versions of Windows and OSX.</li>
+                    <li>Maintained a customer focused attitude.</li>
+                  </ul>
+                    </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Resume Section -->
+
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+        </div>
+
+        <div class="row mt-1">
+
+          <div class="col-lg-4">
+            <div class="info">
+              <div class="address">
+               <a href="https://shorturl.at/efopI" target="_blank"> <i class="bi bi-geo-alt"></i></a>
+                <h4>Location:</h4>
+                <p>Romania</p>
+              </div>
+
+              <div class="email">
+                 <a href="mailto:ovidiu.velica@gmail.com" target="_blank"> <i class="bi bi-envelope"></i></a>
+                <h4>Email:</h4>
+                <p>ovidiu.velica@gmail.com</p>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="col-lg-8 mt-5 mt-lg-0">
+
+            <form action="mailto:ovidiu.velica@gmail.com" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit" value="Send">Send Message</button></div>
+            </form>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <h2>Social Links</h2>
+
+      <div class="social-links">
+
+        <a href="https://github.com/Oviderzen" target="_blank" class="github"><i class="bx bxl-github"></i></a>
+        <a href="" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+        <a href="" target="_blank" class="devto"><i class="bx bxl-dev-to"></i></a>
+          <a href="" target="_blank" class="leetcode"><i class='bx bx-code-alt'></i></a>
+      </div>
+      <div class="copyright">
+        &copy; Copyright <strong><span>Ovidiu Velica</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+
+        Made by <a href="https://github.com/Oviderzen" target="_blank">Ovidiu Velica</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="static/vendor/purecounter/purecounter.js"></script>
+  <script src="static/vendor/aos/aos.js"></script>
+  <script src="static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="static/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="static/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="static/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="static/vendor/typed.js/typed.min.js"></script>
+  <script src="static/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="static/vendor/php-email-form/validate.html"></script>
+
+  <!-- Main JS File -->
+  <script src="static/js/main.js"></script>
+
+<!-- JavaScript code for Dark Mode Button -->
+<script>
+// Check if the user's system prefers dark mode
+const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+// Function to toggle the dark mode
+function toggleDarkMode() {
+  const body = document.body;
+  body.classList.toggle('dark-mode');
+
+  // Save the user's preference in local storage
+  const isDarkMode = body.classList.contains('dark-mode');
+  localStorage.setItem('darkMode', isDarkMode);
+}
+
+// Initialize the dark mode based on the user's preference or system settings
+const savedDarkMode = localStorage.getItem('darkMode');
+if (savedDarkMode !== null) {
+  const body = document.body;
+  body.classList.toggle('dark-mode', savedDarkMode === 'true');
+} else {
+  const body = document.body;
+  body.classList.toggle('dark-mode', prefersDarkMode);
+}
+
+// Add a click event listener to the dark mode toggle button
+const darkModeToggle = document.getElementById('darkModeToggle');
+darkModeToggle.addEventListener('click', toggleDarkMode);
+</script>
+
+
+</body>
+
+
+</html>
